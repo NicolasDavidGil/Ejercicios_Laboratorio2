@@ -1,0 +1,16 @@
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\bin\Debug\net5.0\Ejericicio4.exe
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\bin\Debug\net5.0\Ejericicio4.deps.json
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\bin\Debug\net5.0\Ejericicio4.runtimeconfig.json
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\bin\Debug\net5.0\Ejericicio4.runtimeconfig.dev.json
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\bin\Debug\net5.0\Ejericicio4.dll
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\bin\Debug\net5.0\Ejericicio4.pdb
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\obj\Debug\net5.0\Ejericicio4.csproj.AssemblyReference.cache
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\obj\Debug\net5.0\Ejericicio4.GeneratedMSBuildEditorConfig.editorconfig
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\obj\Debug\net5.0\Ejericicio4.AssemblyInfoInputs.cache
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\obj\Debug\net5.0\Ejericicio4.AssemblyInfo.cs
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\obj\Debug\net5.0\Ejericicio4.csproj.CoreCompileInputs.cache
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\obj\Debug\net5.0\Ejericicio4.dll
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\obj\Debug\net5.0\refint\Ejericicio4.dll
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\obj\Debug\net5.0\Ejericicio4.pdb
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\obj\Debug\net5.0\Ejericicio4.genruntimeconfig.cache
+U:\UTN\Programacion 2\Ejericicio4_Final\Ejericicio4\obj\Debug\net5.0\ref\Ejericicio4.dll
