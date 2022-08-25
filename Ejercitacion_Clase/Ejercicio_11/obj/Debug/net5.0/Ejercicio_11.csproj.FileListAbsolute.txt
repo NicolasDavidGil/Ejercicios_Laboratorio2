@@ -1,0 +1,16 @@
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.exe
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.deps.json
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.runtimeconfig.json
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.runtimeconfig.dev.json
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.dll
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.pdb
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.csproj.AssemblyReference.cache
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.GeneratedMSBuildEditorConfig.editorconfig
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.AssemblyInfoInputs.cache
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.AssemblyInfo.cs
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.csproj.CoreCompileInputs.cache
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.dll
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\obj\Debug\net5.0\refint\Ejercicio_11.dll
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.pdb
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.genruntimeconfig.cache
+U:\UTN\Programacion 2\Ejercitacion_Clase\Ejercicio_11\obj\Debug\net5.0\ref\Ejercicio_11.dll
