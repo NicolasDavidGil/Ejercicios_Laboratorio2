@@ -26,7 +26,7 @@ namespace Ejercicio_09
             int cantidadDibujos = 1;
 
 
-            Console.WriteLine("Ingrese la altura que desea que tenga el triangulo(max 8): ");
+            Console.WriteLine("Ingrese la altura que desea que tenga el triangulo: ");
             ingresoUsuario = Console.ReadLine();
             while(!int.TryParse(ingresoUsuario, out numeroIngresado))
             {
