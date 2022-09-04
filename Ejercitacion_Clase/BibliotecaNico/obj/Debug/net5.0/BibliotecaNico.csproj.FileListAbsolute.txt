@@ -1,0 +1,12 @@
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\bin\Debug\net5.0\BibliotecaNico.deps.json
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\bin\Debug\net5.0\BibliotecaNico.dll
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\bin\Debug\net5.0\BibliotecaNico.pdb
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\obj\Debug\net5.0\BibliotecaNico.csproj.AssemblyReference.cache
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\obj\Debug\net5.0\BibliotecaNico.GeneratedMSBuildEditorConfig.editorconfig
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\obj\Debug\net5.0\BibliotecaNico.AssemblyInfoInputs.cache
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\obj\Debug\net5.0\BibliotecaNico.AssemblyInfo.cs
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\obj\Debug\net5.0\BibliotecaNico.csproj.CoreCompileInputs.cache
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\obj\Debug\net5.0\BibliotecaNico.dll
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\obj\Debug\net5.0\refint\BibliotecaNico.dll
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\obj\Debug\net5.0\BibliotecaNico.pdb
+U:\UTN\Programacion 2\Ejercitacion_Clase\BibliotecaNico\obj\Debug\net5.0\ref\BibliotecaNico.dll
